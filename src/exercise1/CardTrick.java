@@ -49,7 +49,7 @@ public class CardTrick extends Card{
      * replace this information with your own.
      * @author Pablo Carmona 31/1/2023
      */
-    private static void printInfo() {
+    private static void printInfo() { //I'M DONE
     
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
